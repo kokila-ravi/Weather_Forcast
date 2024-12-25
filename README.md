@@ -1,6 +1,6 @@
-# **Weather_Forcast**
+**Weather_Forcast**
 
-[![WeatherForcast](https://img.shields.io/badge/Weather_Forcast-Click%20Here-blue)](https://kokila-ravi.github.io/Weather_Forcast/)
+# [![WeatherForcast](https://img.shields.io/badge/Weather_Forcast-Click%20Here-blue)](https://kokila-ravi.github.io/Weather_Forcast/)
 
 🌤️ Real-Time Weather Forecast: Get Accurate Updates Instantly
 
